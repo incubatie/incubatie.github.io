@@ -25,6 +25,9 @@ twitter_username: incubatie
 github_username:  incubatie
 google_analytics: UA-100589269-1
 
+disqus:
+  shortname: incubatie
+
 # Build settings
 markdown: kramdown
 theme: minima
